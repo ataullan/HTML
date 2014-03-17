@@ -1,0 +1,41 @@
+HTML
+====
+1)TITLE
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+</head>
+
+<body>
+The content of the document......
+</body>
+
+</html>
+
+
+2)BASE
+
+<head>
+<base href="http://www.w3schools.com/images/" target="_blank">
+</head>
+
+3)LINK
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+
+4)STYLE
+ <html>
+<head>
+<p><i>HI</i></p>
+<style type="text/css">
+body {background-color:yellow;}
+p {color:blue;}
+</style>
+</head>
+<html>
+
+5)META
+<meta name="description" content="Free Web tutorials on HTML and CSS">
+
