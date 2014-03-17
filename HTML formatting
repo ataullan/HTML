@@ -1,0 +1,15 @@
+HTML
+====
+<!DOCTYPE html>
+<html>
+<body>
+
+<p><b>Hi welcome to felight</b></p>           BOLD
+<p><strong>Hi welcome to felight</strong></p> STRONG
+<p><i>Hi welcome to felight</i></p>           ITALIC
+<p><em>Hi welcome to felight</em></p>         EMPASIZED
+<p><code>Hi welcome to felight</code></p>  
+<p>Wel<sub> </sub> Come <sup>Felight</sup></p>SUBSRSRIPT SUPERSCRPT
+
+</body>
+</html>
